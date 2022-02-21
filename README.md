@@ -1,12 +1,17 @@
-# lab_2
+# Final Project Repo
 
+Shane Kramer
+Monali Narayanaswami
+Sybil Santos-Burgan
+Jose Torres
 
-The final project for MIDS w203. In this lab, students will appply what they have learned about building linear models 
-to produce a report that analyzes a specific research question. 
-
-# Assignment Prompt
-
-The assignment prompt is in `./assignment.Rmd` and the linked `./assignment.html` file. 
+ 
+RANDOM ACTS OF PIZZA
+● https://www.kaggle.com/c/random-acts-of-pizza
+● People post pizza requests on Reddit
+● Build 2-class classifier
+● Classify whether post will get pizza
+● Practice mining features from text
 
 # Project Organization
 
